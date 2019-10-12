@@ -2,9 +2,9 @@
   "name": "Your Name",
   "description": "AnyThing",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "Broadcast.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node Broadcast.js"
   },
   "dependencies": {
    "discord.js": "^11.3.2",
