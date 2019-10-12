@@ -45,4 +45,4 @@ const Discord = require("discord.js");
                             }
                           }
 });
-kboosh.login(process,env.BOT.TOKEN);
+kboosh.login(process,env.BOT_TOKEN);
